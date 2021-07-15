@@ -15,8 +15,8 @@ In Processing, I am generating animations, and then “downsampling” each fram
 - Processing IDE
 
 # Documentation
-https://www.instagram.com/p/COFz2q9Ajc8/?utm_source=ig_web_copy_link
-https://www.instagram.com/p/CPcO-29LxCj/?utm_source=ig_web_copy_link
+- https://www.instagram.com/p/COFz2q9Ajc8/?utm_source=ig_web_copy_link
+- https://www.instagram.com/p/CPcO-29LxCj/?utm_source=ig_web_copy_link
 
 # Notes!!!
 
