@@ -18,6 +18,9 @@ In Processing, I am generating animations, and then “downsampling” each fram
 
 ![IMG_20210524_160048](https://user-images.githubusercontent.com/50385294/125770272-52446407-a4c4-4b9f-a458-ed7c5690f08a.jpg)
 
+Video
+🡻🡻🡻🡻🡻
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N2Eva2dZg2o/0.jpg)](https://www.youtube.com/watch?v=N2Eva2dZg2o")
 
 
@@ -25,6 +28,6 @@ In Processing, I am generating animations, and then “downsampling” each fram
 
 This is still a development process there are some problematic aspects could be due to messy data transfer from computer to esp32 via udp, or in terms of array , it is still unknown.
 
-Please if you want to develop from my project, I'm happy
+Please if you want to develop from my project, I'm very happy
 
 Best Regards
