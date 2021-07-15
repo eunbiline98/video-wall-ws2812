@@ -16,9 +16,6 @@ In Processing, I am generating animations, and then “downsampling” each fram
 
 # Documentation
 
-![Alt Text]
-https://user-images.githubusercontent.com/50385294/125768661-0c14bfed-8840-4e0b-9bbc-697cc83bad06.mp4
-/media/vFKqnCdLPNOKc/giphy.gif)
 
 ![IMG_20210524_151949](https://user-images.githubusercontent.com/50385294/125770261-ba8915ca-e719-46be-922f-503f6972d2f6.jpg)
 
