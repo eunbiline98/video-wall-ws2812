@@ -15,8 +15,9 @@ In Processing, I am generating animations, and then “downsampling” each fram
 - Processing IDE
 
 # Documentation
+ https://img.youtube.com/vi/<VIDEO ID>/0.jpg
 
-[![pygame](https://www.instagram.com/p/COFz2q9Ajc8/)]((https://www.instagram.com/p/COFz2q9Ajc8/)
+[![pygame](https://img.youtube.com/vi/FfWpgLFMI7w/0.jpg)](http://www.youtube.com/watch?v=FfWpgLFMI7w"pygame")
 
 # Notes!!!
 
