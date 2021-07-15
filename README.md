@@ -16,11 +16,9 @@ In Processing, I am generating animations, and then “downsampling” each fram
 
 # Documentation
 
-
-![IMG_20210524_151949](https://user-images.githubusercontent.com/50385294/125770261-ba8915ca-e719-46be-922f-503f6972d2f6.jpg)
-
-
 ![IMG_20210524_160048](https://user-images.githubusercontent.com/50385294/125770272-52446407-a4c4-4b9f-a458-ed7c5690f08a.jpg)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N2Eva2dZg2o/0.jpg)](https://www.youtube.com/watch?v=N2Eva2dZg2o")
 
 
 # Notes!!!
