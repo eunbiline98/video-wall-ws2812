@@ -15,8 +15,16 @@ In Processing, I am generating animations, and then “downsampling” each fram
 - Processing IDE
 
 # Documentation
-- https://www.instagram.com/p/COFz2q9Ajc8/?utm_source=ig_web_copy_link
-- https://www.instagram.com/p/CPcO-29LxCj/?utm_source=ig_web_copy_link
+
+![Alt Text]
+https://user-images.githubusercontent.com/50385294/125768661-0c14bfed-8840-4e0b-9bbc-697cc83bad06.mp4
+/media/vFKqnCdLPNOKc/giphy.gif)
+
+![IMG_20210524_151949](https://user-images.githubusercontent.com/50385294/125770261-ba8915ca-e719-46be-922f-503f6972d2f6.jpg)
+
+
+![IMG_20210524_160048](https://user-images.githubusercontent.com/50385294/125770272-52446407-a4c4-4b9f-a458-ed7c5690f08a.jpg)
+
 
 # Notes!!!
 
