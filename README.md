@@ -1,4 +1,4 @@
-## Video Wall Led Strip WS2812 / WS 2811
+## Video Wall Led Strip WS2812 / WS2811
 
 I am making a flexible LED display system using Processing to generate and transmit imagery via OSC
 
