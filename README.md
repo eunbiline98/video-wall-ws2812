@@ -14,7 +14,7 @@ In Processing, I am generating animations, and then “downsampling” each fram
 - Arduino IDE
 - Processing IDE
 
-#Notes!!!
+# Notes!!!
 
 This is still a development process there are some problematic aspects could be due to messy data transfer from computer to esp32 via udp, or in terms of array , it is still unknown.
 
