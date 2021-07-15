@@ -18,4 +18,6 @@ In Processing, I am generating animations, and then “downsampling” each fram
 
 This is still a development process there are some problematic aspects could be due to messy data transfer from computer to esp32 via udp, or in terms of array , it is still unknown.
 
-Please those who want to develop from my project, with pleasure
+Please if you want to develop from my project, I'm happy
+
+Best Regards
